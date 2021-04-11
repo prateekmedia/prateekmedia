@@ -1,15 +1,15 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="310">
 
 ### 🤵 About Me:
 - 🏦 I'm currently a student
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.dart```,``` .py```, ```.vala```
 - 🌱 I’m currently learning flutter
-- 💬 Talk to me about tech, linux and WW3
+- 💬 Talk to me about tech, linux and 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: You are currently reading this text..
+- ⚡ Fun fact: Carnivorous == Coronavirus
 
 ---
 ### 🐱My Github stats:
@@ -18,6 +18,6 @@
 
 
 ### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api" alt="Joke for a Joker" />
 
 ----
