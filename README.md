@@ -5,14 +5,14 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I am comfortable with ```.dart```,``` .py```, ```.vala```,```.qml```,...
 - 🌱 I’m currently learning everything
-- 💬 Talk to me about tech, linux and 
+- 💬 Talk to me about tech, linux and  ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: `SU` in <code>Prateek <b>SU</b></code> stands for `SuperUser`
 
 ---
 ### 🐱My Github stats:
-![github stats](https://github-readme-stats.vercel.app/api?username=prateekmedia&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekmedia&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats overview](https://github.com/prateekmedia/github-stats/blob/master/generated/overview.svg?raw=true)
+![Github language stats](https://github.com/prateekmedia/github-stats/blob/master/generated/languages.svg?raw=true)
 
 ### 🙌Business Enquiry:
 | Telegram |
