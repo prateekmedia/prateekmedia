@@ -1,13 +1,13 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 
 ### 🤵 About Me
-- 🏦 I'm currently a student
+- 🏦 I'm a student
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 - 🤔 I am comfortable with ```.dart```,``` .py```, ```.vala```,```.qml```,...  
-- 🌱 I’m currently learning everything  
+- 🌱 I’m currently learning ...
 - 💬 Talk to me about tech, linux and  ...  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: `SU` in <code>Prateek <b>SU</b></code> stands for `SuperUser`  
+- ⚡ Fun fact: Linux is not an OS
 
 ---
 ### 🐱 My Github stats
