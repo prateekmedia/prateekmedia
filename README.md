@@ -17,7 +17,7 @@
 |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="Flutter" width="38">](https://t.me/prateek_media)|
 
 ### 🤝 For Freelancing Gigs
-I prefer discord when it comes to freelancing gigs, but I also have a fiverr account.
+I prefer discord when it comes to freelancing gigs, but I also have a fiverr account.  
 P.S: Please don't contact for things other than freelancing gigs in these platform, otherwise you may get blocked.
 | Discord | Fiverr |
 | ------ | ------- |
