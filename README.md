@@ -12,8 +12,13 @@
 ![Github language stats](https://github.com/prateekmedia/github-stats/blob/master/generated/languages.svg?raw=true)
 
 ### 🙌 Get in touch
-| Telegram | Fiverr | Discord |
-|   ---    | ------ | ------- |
-|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="Flutter" width="38">](https://t.me/prateek_media)|[<img src="https://user-images.githubusercontent.com/41370460/153605560-b1d89628-71c0-40ed-bcf7-7a4cae97b9a4.png" width="38">](https://www.fiverr.com/prateek_su)|[<img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="38">](https://discord.gg/8yxTWV3f)|
+| Telegram |
+|   ---    |
+|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="Flutter" width="38">](https://t.me/prateek_media)|
 
+### 🙌 For Freelancing Gigs
+I prefer discord when it comes to freelancing gigs, but I also have a fiverr account.
+| Discord | Fiverr |
+| ------ | ------- |
+|[<img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="38">](https://discord.gg/8yxTWV3f)|[<img src="https://user-images.githubusercontent.com/41370460/153605560-b1d89628-71c0-40ed-bcf7-7a4cae97b9a4.png" width="38">](https://www.fiverr.com/prateek_su)|
 ----
