@@ -1,11 +1,12 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 
 ### 🤵 About Me
-- 🏦 I'm a student
+- 🏦 I'm a software developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
-- 🤔 I am comfortable with ```.dart```,``` .py```, ```.qml```, ```.cpp```,...   
+- 🤔 I am comfortable with ```Flutter```,```Python```, ```Django```, ```C++``` and alot of other languages   
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I have 19 years of experience in sleeping.
+- 🙌 GSoC'2023 @CCExtractor Organizaton
 ---
 ### 🐱 My Github stats
 ![Github stats overview](https://github.com/prateekmedia/github-stats/blob/master/generated/overview.svg?raw=true)
