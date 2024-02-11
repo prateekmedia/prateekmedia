@@ -1,9 +1,9 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 
 ### 🤵 About Me
-- 🏦 I'm a software developer
+- 🏦 I'm a software engineer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
-- 🤔 I am comfortable with ```Flutter```,```Python```, ```Django```, ```C++``` and alot of other languages   
+- 🤔 I'm comfortable with ```Flutter```,```Python```, ```Rust```, and more (Complete list would fill up the entire page)   
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I have 19 years of experience in sleeping.
 - 🙌 GSoC'2023 @CCExtractor Organizaton
