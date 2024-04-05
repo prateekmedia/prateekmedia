@@ -5,7 +5,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 - 🤔 I'm comfortable with ```Flutter```,```Python```, ```Rust```, and more (Complete list would fill up the entire page)   
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I have 19 years of experience in sleeping.
+- ⚡ Fun fact: I have `20 years of experience` in *sleeping*.
 - 🙌 GSoC'2023 @CCExtractor Organizaton
 ---
 ### 🐱 My Github stats
