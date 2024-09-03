@@ -6,7 +6,7 @@
 - 🤔 I'm comfortable with ```Flutter```,```Python```, ```Rust```, and more (Complete list would fill up the entire page)   
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: My lucky number is `10^21`
-- 🙌 GSoC'2023 @CCExtractor Organizaton
+- 🙌 GSoC'2024 and '2023 @CCExtractor Organizaton
 ---
 ### 🐱 My Github stats
 ![Github stats overview](https://github.com/prateekmedia/github-stats/blob/master/generated/overview.svg?raw=true)
