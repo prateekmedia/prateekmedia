@@ -7,6 +7,7 @@
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: My lucky number is `10^21`
 - 🙌 GSoC'2024 and '2023 @CCExtractor Organizaton
+- 🙌 Contributed to Flutter Framework [flutter#91982](https://github.com/flutter/flutter/pull/91982)
 ---
 ### 🐱 My Github stats
 ![Github stats overview](https://github.com/prateekmedia/github-stats/blob/master/generated/overview.svg?raw=true)
